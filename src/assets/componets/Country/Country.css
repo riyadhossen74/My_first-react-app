@@ -1,0 +1,9 @@
+.country{
+    border: 1px solid greenyellow;
+    margin: 15px;
+    padding: 25px;
+    border-radius: 20px;
+}
+.country-visited{
+    background: aqua;
+}
